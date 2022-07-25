@@ -1,0 +1,143 @@
+body{
+    font-family: Century Gothic;
+}
+.navbar1{
+    background-color: black;
+    width: 100%;
+}
+.navbar1logo{
+    width: 100px;
+    height: 50px;
+}
+.con1{
+    margin-top: 100px;
+}
+.para1{
+    text-align: justify;
+}
+.con1b{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.con2{
+    background-image: url("Books/LibraryBg.png");
+    margin-top: 50px;
+}
+.h12{
+    font-size: 35px;
+    font-weight: bolder;
+    margin-left: 20px;
+}
+.button2{
+    background-color: black;
+}
+.con2a{
+    padding: 20px;
+}
+.con2a h5{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.con2b{
+    padding: 20px;
+}
+.con2b h5{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.con2c{
+    padding: 20px;
+}
+.con2c h5{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.con2d{
+    padding: 20px;
+}
+.con2d h5{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.con2e{
+    padding: 20px;
+}
+.con2e h5{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.conA1{
+    margin-top: 100px;
+}
+.conA1 h1{
+    padding-top: 30px;
+}
+.conA1 p{
+    text-align: justify;
+    padding-top: 20px;
+}
+.accordion1{
+    margin-top: 50px;
+}
+.accordion1 p{
+    text-align: justify;
+    margin-top: 30px;
+}
+.accordion1 h1{
+    margin-top: 30px;
+}
+.con3{
+    background-color: black;
+    margin-top: 50px;
+
+    text-align: center;
+}
+.con3 h1{
+    font-weight: bolder;
+}
+.accordion2 p{
+    margin-top: 30px;
+    text-align: justify;
+}
+.accordion2 h1{
+    margin-top: 30px;
+}
+.icon1{
+    padding-right: 20px;
+}
+.con2g{
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+.con2g p{
+    text-align: justify;
+}
+.con4{
+    margin-bottom: 50px;
+}
+.con5{
+    background-color: black;
+    width: 100%;
+}
+.col51{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.con5 .col51 h4{
+    margin-left: 30px;
+}
